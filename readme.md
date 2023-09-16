@@ -1,7 +1,7 @@
 EQUIPO 6
 -MATHIAS SANTOS
 - JONATAN HILARIO
-<<<<<<< HEAD
+
 - ANTHONY GUERRA
 =======
 - Fernando Stubing
